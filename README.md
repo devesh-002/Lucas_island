@@ -8,7 +8,7 @@ In a nutshell, this model is about workers that move through separate markets (i
 
 For a more detailed explanation, the notebooks].
 
-The process of arriving to an island could is stochastic. 
+The process of arriving to an island  is stochastic. 
 
 The notebook LucasPrescott74 works with stochastic arrival. The associated Python file is lucas_search.py. This file contains the lucas_search_ns.py file but adds the stochastic arrival part.
 
